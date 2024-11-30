@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=RTCOM Notification UI
+Comment=FIXME Notification UI status area plugin
+Type=default
+X-Path=librtcom-notification-ui.so
